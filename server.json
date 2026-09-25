@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/openaq",
-  "title": "openaq",
-  "description": "OpenAQ MCP — wraps OpenAQ v2 API (free, no auth required)",
-  "version": "0.1.0",
+  "title": "Openaq",
+  "description": "OpenAQ MCP — global air-quality measurements via the OpenAQ v3 API.",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/openaq",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-openaq",
