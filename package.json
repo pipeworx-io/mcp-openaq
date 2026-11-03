@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-openaq",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "OpenAQ MCP — global air-quality measurements via the OpenAQ v3 API.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "openaq",
     "gatewaySlug": "openaq",
-    "sourceHash": "v1-4213d2d1c652aa86b271d7b4b3b11ade9b19b812717742914800d14b42a9534c",
-    "sourceCommit": "b2c4383545bb35171d0ada2beb1c9c7168ea175e"
+    "sourceHash": "v1-fdbd5f77991162d6b683dbda6b89da8a9f547cdf68499d9a3ed16b9b956d9179",
+    "sourceCommit": "bed7faa04e7276899b5e3870ef11c98625371f2b"
   }
 }
